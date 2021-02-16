@@ -14,15 +14,15 @@ white='\e[1;37m'
 yellow='\e[1;33m' 
 toilet -f term -F border --gay "WELCOME To The Channel AS7HABELMGRA INFO TERMUX"
 echo -e $red
-figlet -f slant "M . INFO"
-echo -e $green"--------------$yellow( Hacker Termux )$green--------------" 
+figlet -f slant "ELMORSY.SE"
+echo -e $green"--------------$yellow( abdalla elmorsy)$green--------------" 
 echo -e $yellow
-echo -e "By =====> $red HACKER / MOHAMMED INFO"
-#echo PS1="$green\#-M.Info-#"
+echo -e "By =====> $red HACKER / ELMORSY-HACKRS"
+#echo PS1="$green\#-ELMORSY.SE-#"
 echo ""
 echo -e $green '*************************************************'
 echo ""
 
 
 
-PS1="\#-root@M-Info-#"
+PS1="\#-root@ELMORSY-SE-#"
