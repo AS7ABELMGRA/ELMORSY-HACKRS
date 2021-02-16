@@ -24,15 +24,15 @@ toilet -f term -F border --gay "WELCOME To The Channel AS7ABELMGRA INFO TERMUX"
 
 echo -e $red
 
-figlet -f slant "M . INFO"
+figlet -f slant "ELMORSY"
 
-echo -e $green"--------------$yellow( Hacker Termux )$green--------------" 
+echo -e $green"--------------$yellow( abdalla elmorsy )$green--------------" 
 
 echo -e $yellow
 
-echo -e "By =====> $red HACKER / ELMORSY INFO"
+echo -e "By =====> $red HACKER / ELMORSY "
 
-#echo PS1="$green\#-M.Info-#"
+#echo PS1="$green\#-ELMORSY-#"
 
 echo ""
 
