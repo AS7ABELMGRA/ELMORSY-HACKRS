@@ -103,7 +103,7 @@ echo -e $green"-------------------------------------------"
 sleep 0
 echo -e $green"--------------$yellow(3 in 1) ---------------"
 sleep 0
-echo -e $yellow "By =====> $red HACKER / ELMORSY Info <====="
+echo -e $yellow "By =====> $red HACKER / ELMORSY  <====="
 sleep 0
 echo ''
 }
@@ -640,7 +640,7 @@ clear
 echo -e $red
 figlet "venom"
 cd ~
-git clone https://github.com/r00t-3xp10it/venom 
+git clone https://github.com/r00t-3xp10it/venom o
 bash Tools-Hk.sh
 fi
 if [ $payload2 = 2 ]
