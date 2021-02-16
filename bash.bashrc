@@ -30,7 +30,7 @@ echo -e $green"--------------$yellow( abdalla elmorsy )$green--------------"
 
 echo -e $yellow
 
-echo -e "By =====> $red HACKER / ELMORSY "
+echo -e "By ▁▂▃▄▅▆▇▇▆▅▄▃▂▁> $red HACKER / ELMORSY "
 
 #echo PS1="$green\#-ELMORSY-#"
 
